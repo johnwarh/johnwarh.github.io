@@ -5,9 +5,12 @@
 Using median cut algorithm & color quantization to obtain a color palette with 
 complementary colors in plain Javascript and html.  Runs in a browser.
 
+
+Try the demo at <a href='https://johnwarh.github.io/color-palette-extractor'>color-palette-extractor demo</a>
+
 Changes from master (@ https://github.com/zygisS22/color-palette-extraction): 
 
-	Added a new controls to permit changing the number of colors in the palette 
+	Added new controls to permit changing the number of colors in the palette 
 	output and a reset button to reset the form and html content.
  
 	Changed sorting of output colors to use the lightness from the hsl color 
