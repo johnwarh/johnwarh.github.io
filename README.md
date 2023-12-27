@@ -2,7 +2,7 @@
 
 ![Header image](/headerPhoto.jpg)
 
-Run the demo at <a href='johnwarh.github.io'>johnwarh.github.io</a>
+Run the demo at <a href='https://johnwarh.github.io'>johnwarh.github.io</a>
 
 Using median cut algorithm & color quantization to obtain a color palette with 
 complementary colors in plain Javascript and html.  Runs in a browser.
