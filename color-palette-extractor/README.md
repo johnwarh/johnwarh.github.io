@@ -57,7 +57,6 @@ Changes from master (@ https://github.com/zygisS22/color-palette-extraction):
 
 		In custom.css
 		Changed background color for range control thumbslider in custom.css to increase contrast with background.
-
 		Updated headerPhoto.jpg
 
 
