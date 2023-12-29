@@ -1,0 +1,6 @@
+**/.vs
+.vs/
+*.bak
+*.bat
+bootstrap.css
+color-picker.*
